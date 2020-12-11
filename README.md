@@ -8,8 +8,8 @@
 &nbsp;
 ## My GitHub Stats
 
-[![aarons28 github stats](https://github-readme-stats.vercel.app/api?username=aarons28&show_icons=true&include_all_commits=true&count_private=true&hide=stars,prs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarons28&count_private=true&theme=dracula&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![aarons28 github stats](https://github-readme-stats.vercel.app/api?username=aarons28&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarons28&count_private=true&theme=dracula&show_icons=true&layout=compact)]
 
 ## ✨ Visitors
 [![ViewCount](https://views.whatilearened.today/views/github/aarons28/ismlhbb.svg?cache=remove)](#)
